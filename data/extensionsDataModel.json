@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1",
+    "name": "Extension A",
+    "version": "1.0.0"
+  },
+  {
+    "id": "2",
+    "name": "Extension B",
+    "version": "2.1.0"
+  }
+]
